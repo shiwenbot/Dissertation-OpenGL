@@ -1,0 +1,46 @@
+﻿  main.cpp
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\macros.h(21,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(27,31): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(28,29): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(34,34): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(34,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(35,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(41,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(43,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(49,40): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(49,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(50,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(54,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(55,35): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(55,35): warning C4244:         with
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(55,35): warning C4244:         [
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(55,35): warning C4244:             _Ty=int
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\ModelTexture.h(55,35): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\opengl\main.cpp(103,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  opengl.vcxproj -> C:\Users\shiwe\Downloads\Shiwen OpenGL\opengl\x64\Debug\opengl.exe
